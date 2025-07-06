@@ -2,6 +2,7 @@
 # E-Commerce Platform 🛒
 
 This is a full-featured e-commerce web application built using Django.
+
  🔥 Features
 - User registration & login
 - Product listings & categories
