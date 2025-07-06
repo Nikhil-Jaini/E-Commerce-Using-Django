@@ -19,15 +19,6 @@ This is a full-featured e-commerce web application built using Django.
 1. Clone the repo
 2. Install dependencies
 3. Run migrations
-4. Start the development server
-
-## 📸 Screenshots
-(Include images here if you have any)
-
-## 📂 Project Structure
-(Explain important folders and files)
-
-## 🤝 Contributing
-Pull requests are welcome!
+4. Start the development server.
 
 <img src="./static/images/demo.png"/>
